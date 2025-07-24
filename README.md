@@ -22,8 +22,9 @@ What should be the ratio of slit width and wavelength so that the first diffract
 
 
 ## Submitted by
-
-251-115-019: Eshrath Alom Nuha
-251-115-023: Nishath Mumtahin
-251-115-032: Najah Zaman Chowdhury
-251-115-034: Nazifa Tabassum Sumaiya
+| Name                    | Student ID      |
+|-------------------------|-----------------|
+| Eshrath Alom Nuha       | 251-115-019     |
+| Nishath Mumtahin        | 251-115-023     |
+| Najah Zaman Chowdhury   | 251-115-032     |
+| Nazifa Tabassum Sumiya | 251-115-034     |
